@@ -5,7 +5,7 @@
 // function palindrome(str){
 //   let reverse = "";
 //   console.log(str);
-//   for(i=0;i<str.length-1;i++){
+//   for(i=0;i<str.length-;i++){
 //     let char = str[i];
 //     reverse += char;
 //   }
@@ -23,6 +23,7 @@
 
 
 // using reverse for loop
+
 const isPalindrome = (str)=>{
     let reversestr = "";
     for(i=str.length-1;i>=0;i--){
