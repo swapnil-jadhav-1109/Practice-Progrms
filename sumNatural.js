@@ -1,3 +1,5 @@
+// write a javascript program to print the sum of natural numbers.
+
 function Sum(n1,n2){
     let add  = 0;
     for(i=n1;i<=n2;i++){
