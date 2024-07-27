@@ -1,4 +1,4 @@
-
+// write a javascript program to print the area of triangle
 
 function triangle(a,b){
  const c = (a*b)/2;

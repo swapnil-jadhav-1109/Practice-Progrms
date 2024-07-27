@@ -1,4 +1,4 @@
-
+  // write a javascript program to remove the duplicate value in this arry.
 let arr = [1,2,3,4,2,3,6,7];
 function Unique(arr){
  let uniqArry = [];
